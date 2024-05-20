@@ -94,7 +94,7 @@ background-position: 80% 10%;
 }
 
 @media screen and (max-width:1020px) {
-    main{
+    header{
         padding: 90px 40px;
         grid-template-columns: repeat(auto-fill, minmax(50%, 1fr));
         grid-template-rows: minmax(auto, auto);
